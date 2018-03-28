@@ -1,0 +1,5 @@
+pgmodeler
+postgresql
+postgresql-contrib
+python3-pip
+graphviz

@@ -1,0 +1,11 @@
+name: tributi
+channels:
+- anaconda
+dependencies:
+- python=3.8
+- requests
+- flask
+- yapf # dev
+- pip # dev
+- pip:
+  - pylama # dev
